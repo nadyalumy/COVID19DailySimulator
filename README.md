@@ -29,7 +29,7 @@ For example, to initialize a simulation that should simulate a period of 150 day
 
 Once the simulation is run, the program should print out the status of the community at each specified day with the number of infected, exposed and recovered humans at each day.
 
-## Citations
+## References
 
 <sup>1</sup> Del Valle, Sara & Hyman, James & Hethcote, Herbert & Eubank, SG. (2007). Mixing patterns between age groups in social networks. Social Networks. 29. 539-554. 10.1016/j.socnet.2007.04.005. 
 
